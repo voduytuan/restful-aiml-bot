@@ -4,6 +4,15 @@ Simple restful api server, process request string (keyword) and return data base
 
 You can use this to create simple chatbot, understanding user queries and return value base on template / pattern of queries.
 
+## Requirement
+This project need `AIMLInterpreter` library to run. Install with `npm`
+
+```bash
+npm install aimlinterpreter
+```
+
+## Usage
+
 ###Step 1: Build your bot brain with AIML###
 Edit `test.aiml` with aiml content. Learn more about AIML at [http://www.alicebot.org/aiml.html]()
 
