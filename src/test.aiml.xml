@@ -1,0 +1,14 @@
+<aiml>
+    <category>
+        <pattern>HI</pattern>
+        <template>Hello to you too</template>
+    </category>
+    <category>
+        <pattern>HI *</pattern>
+        <template>Hello <star/></template>
+    </category>
+    <category>
+        <pattern>ABC</pattern>
+        <template>Wow, cool</template>
+    </category>
+</aiml>
