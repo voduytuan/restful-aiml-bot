@@ -14,7 +14,7 @@ npm install aimlinterpreter
 ## Usage
 
 ### Step 1: Build your bot brain with AIML ###
-Edit `test.aiml` with aiml content. Learn more about AIML at [http://www.alicebot.org/aiml.html]()
+Edit `test.aiml.xml` with aiml content. Learn more about AIML at [http://www.alicebot.org/aiml.html]()
 
 ### Step 2: Start web server ###
 ```bash
